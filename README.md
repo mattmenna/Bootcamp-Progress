@@ -3,7 +3,7 @@
 - [x] Prework
 - [x] Week 1 (6/26) - Java Basics
 - [x] Week 2 (7/5) - Java Basics and Assessment Fri
-- [ ] Week 3 (7/10) - Java Clasese File Op's -- Start Midterm Project
+- [x] Week 3 (7/10) - Java Clasese File Op's -- Start Midterm Project
 - [ ] Week 4 (7/17)
 - [ ] Week 5 (7/24)
 - [ ] Week 6 (7/31)
