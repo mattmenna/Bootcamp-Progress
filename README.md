@@ -6,6 +6,6 @@
 - [x] Week 3 (7/10) - Java Class File Op's -- Start Midterm Project
 - [x] Week 4 (7/17) - Spring MVC, Design Patterns
 - [x] Week 5 (7/24) - SQL, TDD
-- [ ] Week 6 (7/31)
-- [ ] Week 7 (8/7)
-- [ ] Week 8  (8/14) - Final Project
+- [x] Week 6 (7/31)
+- [x] Week 7 (8/7)
+- [x] Week 8  (8/14) - Final Project
